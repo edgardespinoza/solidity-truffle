@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.2"
+  },
+  "name": "firstcontract",
+  "description": "___ install [nodejs](https://nodejs.org/en/) ___ After install [truffle](https://www.trufflesuite.com/docs/truffle/quickstart)",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
