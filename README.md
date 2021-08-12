@@ -5,10 +5,15 @@ ___
 After install [truffle](https://www.trufflesuite.com/docs/truffle/quickstart)
 
 1. install global 
+    
+    ```
+    $ npm install -g solc
+    ```
+
     ```
     $ npm install -g truffle
     ```
-
+    
 2. see the version
     ```sh
     $ truffle version
